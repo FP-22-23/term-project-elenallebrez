@@ -1,0 +1,216 @@
+sl_no;gender;ssc_p;hsc_p;hsc_s;degree_p;degree_t;workex;etest_p;specialisation;mba_p;status;finish_date
+1;M;6700;9100;Commerce;5800;Sci&Tech;No;55;Mkt&HR;588;Placed;15/12/2018
+2;M;7933;7833;Science;7748;Sci&Tech;Yes;865;Mkt&Fin;6628;Placed;29/04/2012
+3;M;6500;6800;Arts;6400;Comm&Mgmt;No;75;Mkt&Fin;578;Placed;08/01/2018
+4;M;5600;5200;Science;5200;Sci&Tech;No;66;Mkt&HR;5943;Not Placed;09/04/2017
+5;M;8580;7360;Commerce;7330;Comm&Mgmt;No;968;Mkt&Fin;555;Placed;20/01/2014
+6;M;5500;4980;Science;6725;Sci&Tech;Yes;55;Mkt&Fin;5158;Not Placed;29/06/2014
+7;F;4600;4920;Commerce;7900;Comm&Mgmt;No;7428;Mkt&Fin;5329;Not Placed;24/02/2010
+8;M;8200;6400;Science;6600;Sci&Tech;Yes;67;Mkt&Fin;6214;Placed;28/08/2015
+9;M;7300;7900;Commerce;7200;Comm&Mgmt;No;9134;Mkt&Fin;6129;Placed;24/02/2019
+10;M;5800;7000;Commerce;6100;Comm&Mgmt;No;54;Mkt&Fin;5221;Not Placed;30/12/2012
+11;M;5800;6100;Commerce;6000;Comm&Mgmt;Yes;62;Mkt&HR;6085;Placed;05/11/2013
+12;M;6960;6840;Commerce;7830;Comm&Mgmt;Yes;60;Mkt&Fin;637;Placed;18/11/2015
+13;F;4700;5500;Science;6500;Comm&Mgmt;No;62;Mkt&HR;6504;Not Placed;21/08/2010
+14;F;7700;8700;Commerce;5900;Comm&Mgmt;No;68;Mkt&Fin;6863;Placed;02/02/2019
+15;M;6200;4700;Commerce;5000;Comm&Mgmt;No;76;Mkt&HR;5496;Not Placed;13/07/2017
+16;F;6500;7500;Commerce;6900;Comm&Mgmt;Yes;72;Mkt&Fin;6466;Placed;12/01/2019
+17;M;6300;6620;Commerce;6560;Comm&Mgmt;Yes;60;Mkt&Fin;6254;Placed;12/12/2014
+18;F;5500;6700;Commerce;6400;Comm&Mgmt;No;60;Mkt&Fin;6728;Not Placed;05/09/2014
+19;F;6300;6600;Commerce;6400;Comm&Mgmt;No;68;Mkt&HR;6408;Not Placed;26/03/2016
+20;M;6000;6700;Arts;7000;Comm&Mgmt;Yes;5048;Mkt&Fin;7789;Placed;07/01/2011
+21;M;6200;6500;Commerce;6600;Comm&Mgmt;No;50;Mkt&HR;567;Placed;10/09/2014
+22;F;7900;7600;Commerce;8500;Comm&Mgmt;No;95;Mkt&Fin;6906;Placed;05/03/2017
+23;F;6980;6080;Science;7223;Sci&Tech;No;5553;Mkt&HR;6881;Placed;15/03/2014
+24;F;7740;6000;Science;6474;Sci&Tech;Yes;92;Mkt&Fin;6362;Placed;02/08/2011
+25;M;7650;9770;Science;7886;Sci&Tech;No;974;Mkt&Fin;7401;Placed;20/01/2013
+26;F;5258;5460;Commerce;5020;Comm&Mgmt;Yes;76;Mkt&Fin;6533;Not Placed;02/05/2012
+27;M;7100;7900;Commerce;6600;Comm&Mgmt;Yes;94;Mkt&Fin;5755;Placed;08/06/2011
+28;M;6300;6700;Commerce;6600;Comm&Mgmt;No;68;Mkt&HR;5769;Placed;18/03/2012
+29;M;7676;7650;Commerce;6750;Comm&Mgmt;Yes;7335;Mkt&Fin;6415;Placed;30/11/2017
+30;M;6200;6700;Commerce;5800;Comm&Mgmt;No;77;Mkt&Fin;5129;Not Placed;10/01/2019
+31;F;6400;7350;Commerce;7300;Comm&Mgmt;No;52;Mkt&HR;567;Placed;17/08/2010
+32;F;6700;5300;Science;6500;Sci&Tech;No;64;Mkt&HR;5832;Not Placed;18/11/2014
+33;F;6100;8100;Commerce;6640;Comm&Mgmt;No;5089;Mkt&HR;6221;Placed;11/09/2011
+34;F;8700;6500;Science;8100;Comm&Mgmt;Yes;88;Mkt&Fin;7278;Placed;05/03/2011
+35;M;6200;5100;Science;5200;Others;No;6844;Mkt&HR;6277;Not Placed;15/06/2016
+36;F;6900;7800;Commerce;7200;Comm&Mgmt;No;71;Mkt&HR;6274;Placed;31/05/2013
+37;M;5100;4400;Commerce;5700;Comm&Mgmt;No;64;Mkt&Fin;5145;Not Placed;08/12/2015
+38;F;7900;7600;Science;6560;Sci&Tech;No;58;Mkt&HR;5547;Placed;12/06/2015
+39;F;7300;5800;Science;6600;Comm&Mgmt;No;537;Mkt&HR;5686;Placed;05/03/2016
+40;M;8100;6800;Science;6400;Sci&Tech;No;93;Mkt&Fin;6256;Placed;05/02/2019
+41;F;7800;7700;Commerce;8000;Comm&Mgmt;No;60;Mkt&Fin;6672;Placed;11/02/2010
+42;F;7400;6316;Commerce;6500;Comm&Mgmt;Yes;65;Mkt&HR;6976;Not Placed;22/09/2012
+43;M;4900;3900;Science;6500;Others;No;63;Mkt&Fin;5121;Not Placed;08/04/2014
+44;M;8700;8700;Commerce;6800;Comm&Mgmt;No;95;Mkt&HR;629;Placed;07/08/2010
+45;F;7700;7300;Commerce;8100;Comm&Mgmt;Yes;89;Mkt&Fin;697;Placed;20/09/2013
+46;F;7600;6400;Science;7200;Sci&Tech;No;58;Mkt&HR;6653;Not Placed;15/07/2010
+47;F;7089;7198;Science;6560;Comm&Mgmt;No;68;Mkt&HR;7163;Not Placed;03/04/2011
+48;M;6300;6000;Commerce;5700;Comm&Mgmt;Yes;78;Mkt&Fin;5455;Placed;19/05/2011
+49;M;6300;6200;Commerce;6800;Comm&Mgmt;No;64;Mkt&Fin;6246;Placed;19/07/2018
+50;F;5000;3700;Arts;5200;Others;No;65;Mkt&HR;5611;Not Placed;13/02/2018
+51;F;7520;7320;Science;6840;Comm&Mgmt;No;65;Mkt&HR;6298;Placed;03/05/2012
+52;M;5440;6112;Commerce;5620;Comm&Mgmt;No;67;Mkt&HR;6265;Not Placed;08/04/2011
+53;F;4089;4583;Commerce;5300;Comm&Mgmt;No;712;Mkt&HR;6549;Not Placed;18/08/2018
+54;M;8000;7000;Science;7200;Sci&Tech;No;87;Mkt&HR;7104;Placed;04/07/2014
+55;F;7400;6000;Science;6900;Comm&Mgmt;No;78;Mkt&HR;6556;Placed;07/05/2014
+56;M;6040;6660;Science;6500;Comm&Mgmt;No;71;Mkt&HR;5271;Placed;28/04/2013
+57;M;6300;7140;Commerce;6140;Comm&Mgmt;No;68;Mkt&Fin;6688;Placed;27/08/2011
+58;M;6800;7600;Commerce;7400;Comm&Mgmt;No;80;Mkt&Fin;6359;Placed;27/07/2016
+59;M;7400;6200;Science;6800;Comm&Mgmt;No;74;Mkt&Fin;5799;Placed;12/02/2010
+60;M;5260;6558;Science;7211;Sci&Tech;No;576;Mkt&Fin;5666;Placed;23/05/2012
+61;M;7400;7000;Science;7200;Comm&Mgmt;Yes;60;Mkt&Fin;5724;Placed;02/01/2014
+62;M;8420;7340;Commerce;6689;Comm&Mgmt;No;616;Mkt&Fin;6248;Placed;18/09/2014
+63;F;8650;6420;Science;6740;Sci&Tech;No;59;Mkt&Fin;5969;Placed;27/05/2015
+64;M;6100;7000;Commerce;6400;Comm&Mgmt;No;685;Mkt&HR;595;Not Placed;09/04/2016
+65;M;8000;7300;Commerce;7500;Comm&Mgmt;No;61;Mkt&Fin;5878;Placed;14/10/2018
+66;M;5400;4700;Science;5700;Comm&Mgmt;No;8969;Mkt&HR;571;Not Placed;05/12/2017
+67;M;8300;7400;Science;6600;Comm&Mgmt;No;6892;Mkt&HR;5846;Placed;27/03/2019
+68;M;8092;7850;Commerce;6700;Comm&Mgmt;No;6871;Mkt&Fin;6099;Placed;19/04/2015
+69;F;6970;4700;Commerce;7270;Sci&Tech;No;79;Mkt&HR;5924;Not Placed;28/02/2019
+70;M;7300;7300;Science;6600;Sci&Tech;Yes;70;Mkt&Fin;6807;Placed;02/09/2012
+71;M;8200;6100;Science;6200;Sci&Tech;No;89;Mkt&Fin;6545;Placed;09/12/2016
+72;M;7500;7029;Commerce;7100;Comm&Mgmt;No;95;Mkt&Fin;6694;Placed;18/02/2013
+73;M;8486;6700;Science;7800;Comm&Mgmt;No;955;Mkt&Fin;6853;Placed;03/11/2012
+74;M;6460;8383;Commerce;7172;Comm&Mgmt;No;86;Mkt&Fin;5975;Placed;10/04/2016
+75;M;5660;6480;Commerce;7020;Comm&Mgmt;No;8427;Mkt&Fin;672;Placed;31/07/2011
+76;F;5900;6200;Commerce;7750;Comm&Mgmt;No;74;Mkt&HR;67;Not Placed;10/07/2018
+77;F;6650;7040;Arts;7193;Comm&Mgmt;No;61;Mkt&Fin;6427;Placed;21/04/2011
+78;M;6400;8000;Science;6500;Sci&Tech;Yes;69;Mkt&Fin;5765;Placed;19/10/2015
+79;M;8400;9090;Science;6450;Sci&Tech;No;8604;Mkt&Fin;5942;Placed;19/09/2016
+80;F;6900;6200;Science;6600;Sci&Tech;No;75;Mkt&HR;6799;Not Placed;03/05/2010
+81;F;6900;6200;Commerce;6900;Comm&Mgmt;Yes;67;Mkt&HR;6235;Placed;24/11/2010
+82;M;8170;6300;Science;6700;Comm&Mgmt;Yes;86;Mkt&Fin;702;Placed;03/10/2018
+83;M;6300;6700;Commerce;7400;Comm&Mgmt;No;82;Mkt&Fin;6044;Not Placed;27/07/2012
+84;M;8400;7900;Science;6800;Sci&Tech;Yes;84;Mkt&Fin;6669;Placed;11/05/2014
+85;M;7000;6300;Science;7000;Sci&Tech;Yes;55;Mkt&Fin;62;Placed;12/08/2016
+86;F;8384;8983;Commerce;7720;Comm&Mgmt;Yes;7874;Mkt&Fin;7618;Placed;14/03/2013
+87;M;6200;6300;Commerce;6400;Comm&Mgmt;No;67;Mkt&Fin;5703;Placed;23/04/2010
+88;M;5960;5100;Science;6000;Others;No;75;Mkt&HR;5908;Not Placed;14/06/2013
+89;F;6600;6200;Commerce;7300;Comm&Mgmt;No;58;Mkt&HR;6436;Placed;08/10/2013
+90;F;8400;7500;Science;6900;Sci&Tech;Yes;62;Mkt&HR;6236;Placed;01/02/2017
+91;F;8500;9000;Commerce;8200;Comm&Mgmt;No;92;Mkt&Fin;6803;Placed;13/06/2011
+92;M;5200;5700;Commerce;5080;Comm&Mgmt;No;67;Mkt&HR;6279;Not Placed;21/11/2017
+93;F;6023;6900;Science;6600;Comm&Mgmt;No;72;Mkt&Fin;5947;Placed;14/03/2018
+94;M;5200;6200;Commerce;5400;Comm&Mgmt;No;72;Mkt&HR;5541;Not Placed;07/08/2014
+95;M;5800;6200;Commerce;6400;Comm&Mgmt;No;5388;Mkt&Fin;5497;Placed;26/09/2013
+96;M;7300;7800;Commerce;6500;Comm&Mgmt;Yes;9546;Mkt&Fin;6216;Placed;02/08/2019
+97;F;7600;7000;Science;7600;Comm&Mgmt;Yes;66;Mkt&Fin;6444;Placed;23/08/2010
+98;F;7050;6250;Commerce;6100;Comm&Mgmt;No;9391;Mkt&Fin;6903;Not Placed;17/11/2013
+99;F;6900;7300;Commerce;6500;Comm&Mgmt;No;70;Mkt&Fin;5731;Placed;18/04/2019
+100;M;5400;8200;Commerce;6300;Sci&Tech;No;50;Mkt&Fin;5947;Not Placed;01/02/2017
+101;F;4500;5700;Commerce;5800;Comm&Mgmt;Yes;5639;Mkt&HR;6495;Not Placed;26/04/2013
+102;M;6300;7200;Commerce;6800;Comm&Mgmt;No;78;Mkt&HR;6044;Placed;12/10/2010
+103;F;7700;6100;Commerce;6800;Comm&Mgmt;Yes;575;Mkt&Fin;6131;Placed;28/02/2011
+104;M;7300;7800;Science;7300;Sci&Tech;Yes;85;Mkt&HR;6583;Placed;30/04/2018
+105;M;6900;6300;Science;6500;Comm&Mgmt;Yes;55;Mkt&HR;5823;Placed;24/01/2013
+106;M;5900;6400;Science;5800;Sci&Tech;No;85;Mkt&HR;553;Not Placed;21/10/2016
+107;M;6108;5000;Science;5400;Sci&Tech;No;71;Mkt&Fin;6569;Not Placed;29/12/2018
+108;M;8200;9000;Commerce;8300;Comm&Mgmt;No;80;Mkt&HR;7352;Placed;14/05/2017
+109;M;6100;8200;Commerce;6900;Comm&Mgmt;No;84;Mkt&Fin;5831;Placed;06/02/2013
+110;M;5200;6300;Science;6500;Sci&Tech;Yes;86;Mkt&HR;5609;Not Placed;18/02/2016
+111;F;6950;7000;Science;7200;Sci&Tech;No;572;Mkt&HR;548;Placed;20/07/2010
+112;M;5100;5400;Science;6100;Sci&Tech;No;60;Mkt&HR;6064;Not Placed;29/07/2018
+113;M;5800;6100;Commerce;6100;Comm&Mgmt;No;58;Mkt&HR;5394;Placed;29/07/2014
+114;F;7396;7900;Commerce;6700;Comm&Mgmt;No;7215;Mkt&Fin;6308;Placed;21/01/2017
+115;M;6500;6800;Science;6900;Comm&Mgmt;No;537;Mkt&HR;5501;Placed;30/01/2018
+116;F;7300;6300;Science;6600;Comm&Mgmt;No;89;Mkt&Fin;605;Placed;14/04/2018
+117;M;6820;7280;Commerce;6660;Comm&Mgmt;Yes;96;Mkt&Fin;7085;Placed;20/01/2015
+118;M;7700;7500;Science;7300;Sci&Tech;No;80;Mkt&Fin;6705;Placed;25/05/2010
+119;M;7600;8000;Science;7800;Sci&Tech;Yes;97;Mkt&HR;7048;Placed;14/02/2015
+120;M;6080;6840;Commerce;6460;Comm&Mgmt;Yes;8266;Mkt&Fin;6434;Placed;15/01/2016
+121;M;5800;4000;Science;5900;Comm&Mgmt;No;73;Mkt&HR;5881;Not Placed;10/01/2013
+122;F;6400;6700;Science;6960;Sci&Tech;Yes;5567;Mkt&HR;7149;Placed;17/03/2012
+123;F;6650;6680;Arts;6930;Comm&Mgmt;Yes;804;Mkt&Fin;71;Placed;31/10/2018
+124;M;7400;5900;Commerce;7300;Comm&Mgmt;Yes;60;Mkt&HR;567;Placed;15/11/2012
+125;M;6700;7100;Science;6433;Others;Yes;64;Mkt&HR;6126;Placed;14/06/2014
+126;F;8400;7300;Commerce;7300;Comm&Mgmt;No;75;Mkt&Fin;7333;Placed;04/05/2019
+127;F;7900;6100;Science;7550;Sci&Tech;Yes;70;Mkt&Fin;682;Placed;11/06/2013
+128;F;7200;6000;Science;6900;Comm&Mgmt;No;555;Mkt&HR;584;Placed;07/12/2013
+129;M;8040;7340;Science;7772;Sci&Tech;Yes;812;Mkt&HR;7626;Placed;07/03/2012
+130;M;7670;8970;Commerce;6600;Comm&Mgmt;Yes;90;Mkt&Fin;6855;Placed;12/10/2018
+131;M;6200;6500;Commerce;6000;Comm&Mgmt;No;84;Mkt&Fin;6415;Not Placed;16/10/2011
+132;F;7490;5700;Science;6200;Others;Yes;80;Mkt&Fin;6078;Placed;07/07/2019
+133;M;6700;6800;Commerce;6400;Comm&Mgmt;Yes;744;Mkt&HR;5349;Placed;19/04/2015
+134;M;7300;6400;Commerce;7700;Comm&Mgmt;Yes;65;Mkt&HR;6098;Placed;09/05/2011
+135;F;7744;9200;Commerce;7200;Comm&Mgmt;Yes;94;Mkt&Fin;6713;Placed;28/12/2015
+136;F;7200;5600;Science;6900;Comm&Mgmt;No;556;Mkt&HR;6563;Placed;10/12/2016
+137;F;4700;5900;Arts;6400;Comm&Mgmt;No;78;Mkt&Fin;6158;Not Placed;08/06/2016
+138;M;6700;6300;Commerce;7200;Comm&Mgmt;No;56;Mkt&HR;6041;Placed;28/03/2016
+139;F;8200;6400;Science;7300;Sci&Tech;Yes;96;Mkt&Fin;7177;Placed;04/07/2017
+140;M;7700;7000;Commerce;5900;Comm&Mgmt;Yes;58;Mkt&Fin;5443;Placed;17/07/2010
+141;M;6500;6480;Commerce;6950;Comm&Mgmt;Yes;56;Mkt&Fin;5694;Placed;09/03/2012
+142;M;6600;6400;Science;6000;Comm&Mgmt;No;60;Mkt&HR;619;Not Placed;24/09/2011
+143;M;8500;6000;Science;7343;Sci&Tech;Yes;60;Mkt&Fin;6129;Placed;31/08/2016
+144;M;7767;6489;Commerce;7067;Comm&Mgmt;No;89;Mkt&Fin;6039;Placed;17/02/2013
+145;M;5200;5000;Arts;6100;Comm&Mgmt;No;60;Mkt&Fin;5852;Not Placed;14/06/2017
+146;M;8940;6566;Science;7125;Sci&Tech;No;72;Mkt&HR;6323;Placed;06/01/2012
+147;M;6200;6300;Science;6600;Comm&Mgmt;No;85;Mkt&HR;5514;Placed;27/08/2016
+148;M;7000;7400;Commerce;6500;Comm&Mgmt;No;83;Mkt&Fin;6228;Placed;11/07/2019
+149;F;7700;8600;Arts;5600;Others;No;57;Mkt&Fin;6408;Placed;09/11/2010
+150;M;4400;5800;Arts;5500;Comm&Mgmt;Yes;6425;Mkt&HR;5854;Not Placed;10/06/2010
+151;M;7100;5866;Science;5800;Sci&Tech;Yes;56;Mkt&Fin;613;Placed;25/02/2013
+152;M;6500;6500;Commerce;7500;Comm&Mgmt;No;83;Mkt&Fin;5887;Placed;24/05/2015
+153;F;7540;6050;Science;8400;Sci&Tech;No;98;Mkt&Fin;6525;Placed;14/05/2018
+154;M;4900;5900;Science;6500;Sci&Tech;Yes;86;Mkt&Fin;6248;Placed;28/11/2018
+155;M;5300;6300;Science;6000;Comm&Mgmt;Yes;70;Mkt&Fin;532;Placed;28/12/2015
+156;M;5157;7466;Commerce;5990;Comm&Mgmt;Yes;5615;Mkt&HR;6599;Not Placed;04/07/2010
+157;M;8420;6940;Science;6500;Sci&Tech;Yes;80;Mkt&HR;5272;Placed;11/02/2019
+158;M;6650;6250;Commerce;6090;Comm&Mgmt;No;934;Mkt&Fin;5503;Placed;17/10/2016
+159;M;6700;6300;Science;6400;Sci&Tech;No;60;Mkt&Fin;6187;Not Placed;03/06/2013
+160;M;5200;4900;Commerce;5800;Comm&Mgmt;No;62;Mkt&HR;6059;Not Placed;20/01/2013
+161;M;8700;7400;Science;6500;Sci&Tech;Yes;75;Mkt&HR;7229;Placed;15/10/2018
+162;M;5560;5100;Commerce;5750;Comm&Mgmt;No;5763;Mkt&HR;6272;Not Placed;26/08/2017
+163;M;7420;8760;Commerce;7725;Comm&Mgmt;Yes;752;Mkt&Fin;6606;Placed;23/04/2012
+164;M;6300;6700;Science;6400;Sci&Tech;No;75;Mkt&Fin;6646;Placed;11/01/2012
+165;F;6716;7250;Commerce;6335;Comm&Mgmt;No;5304;Mkt&Fin;6552;Placed;30/01/2010
+166;F;6330;7833;Commerce;7400;Comm&Mgmt;No;80;Mkt&Fin;7456;Not Placed;11/10/2014
+167;M;6200;6200;Commerce;6000;Comm&Mgmt;Yes;63;Mkt&HR;5238;Placed;05/08/2011
+168;M;6790;6200;Science;6700;Sci&Tech;Yes;581;Mkt&Fin;7571;Not Placed;08/11/2018
+169;F;4800;5100;Commerce;5800;Comm&Mgmt;Yes;60;Mkt&HR;5879;Not Placed;08/01/2010
+170;M;5996;4216;Science;6126;Sci&Tech;No;5448;Mkt&HR;6548;Not Placed;12/06/2018
+171;F;6340;6720;Commerce;6000;Comm&Mgmt;No;5806;Mkt&HR;6928;Not Placed;25/08/2015
+172;M;8000;8000;Commerce;7200;Comm&Mgmt;Yes;6379;Mkt&Fin;6604;Placed;03/02/2012
+173;M;7300;5800;Commerce;5600;Comm&Mgmt;No;84;Mkt&HR;5264;Placed;25/08/2017
+174;F;5200;5200;Science;5500;Sci&Tech;No;67;Mkt&HR;5932;Not Placed;24/12/2017
+175;M;7324;5083;Science;6427;Sci&Tech;Yes;64;Mkt&Fin;6623;Placed;15/01/2019
+176;M;6300;6200;Science;6500;Sci&Tech;No;875;Mkt&HR;6069;Not Placed;24/07/2017
+177;F;5900;6000;Commerce;5600;Comm&Mgmt;No;55;Mkt&HR;579;Placed;24/03/2017
+178;F;7300;9700;Commerce;7900;Comm&Mgmt;Yes;89;Mkt&Fin;7081;Placed;24/10/2017
+179;M;6800;5600;Science;6800;Sci&Tech;No;73;Mkt&HR;6807;Placed;15/09/2012
+180;F;7780;6400;Science;6420;Sci&Tech;No;755;Mkt&HR;7214;Not Placed;02/01/2016
+181;M;6500;7150;Commerce;6280;Comm&Mgmt;Yes;57;Mkt&Fin;566;Placed;08/08/2010
+182;M;6200;6033;Science;6421;Sci&Tech;No;63;Mkt&HR;6002;Not Placed;30/09/2016
+183;M;5200;6500;Arts;5700;Others;Yes;75;Mkt&Fin;5981;Not Placed;28/10/2011
+184;M;6500;7700;Commerce;6900;Comm&Mgmt;No;60;Mkt&HR;6182;Placed;08/03/2011
+185;F;5628;6283;Commerce;5979;Comm&Mgmt;No;60;Mkt&HR;5729;Not Placed;19/05/2018
+186;F;8800;7200;Science;7800;Others;No;82;Mkt&HR;7143;Placed;21/02/2016
+187;F;5200;6400;Commerce;6100;Comm&Mgmt;No;55;Mkt&Fin;6293;Not Placed;22/09/2010
+188;M;7850;6550;Science;6700;Sci&Tech;Yes;95;Mkt&Fin;6486;Placed;20/07/2012
+189;M;6180;4700;Commerce;5438;Comm&Mgmt;No;57;Mkt&Fin;5613;Not Placed;14/06/2010
+190;F;5400;7760;Commerce;6920;Comm&Mgmt;No;9565;Mkt&Fin;6694;Not Placed;18/04/2012
+191;F;6400;7020;Commerce;6100;Comm&Mgmt;No;50;Mkt&Fin;625;Not Placed;03/02/2015
+192;M;6700;6100;Science;7200;Comm&Mgmt;No;72;Mkt&Fin;6101;Placed;06/12/2016
+193;M;6520;6140;Commerce;6480;Comm&Mgmt;Yes;934;Mkt&Fin;5734;Placed;11/01/2016
+194;F;6000;6300;Arts;5600;Others;Yes;80;Mkt&HR;5663;Placed;10/06/2019
+195;M;5200;5500;Commerce;5630;Comm&Mgmt;No;59;Mkt&Fin;6474;Not Placed;25/04/2010
+196;M;6600;7600;Commerce;7200;Comm&Mgmt;Yes;84;Mkt&HR;5895;Placed;10/10/2011
+197;M;7200;6300;Science;7750;Sci&Tech;Yes;78;Mkt&Fin;5448;Placed;16/10/2018
+198;F;8396;5300;Science;9100;Sci&Tech;No;5932;Mkt&HR;6971;Placed;24/03/2013
+199;F;6700;7000;Commerce;6500;Others;No;88;Mkt&HR;7196;Not Placed;29/05/2013
+200;M;6900;6500;Commerce;5700;Comm&Mgmt;No;73;Mkt&HR;558;Placed;16/03/2016
+201;M;6900;6000;Commerce;6500;Comm&Mgmt;No;8755;Mkt&Fin;5281;Placed;10/06/2019
+202;M;5420;6300;Science;5800;Comm&Mgmt;No;79;Mkt&HR;5844;Not Placed;17/05/2014
+203;M;7000;6300;Science;6600;Sci&Tech;No;6128;Mkt&HR;6011;Placed;06/03/2010
+204;M;5568;6133;Commerce;5687;Comm&Mgmt;No;66;Mkt&HR;583;Placed;24/08/2012
+205;F;7400;7300;Commerce;7300;Comm&Mgmt;Yes;80;Mkt&Fin;6769;Placed;05/11/2011
+206;M;6100;6200;Commerce;6500;Comm&Mgmt;No;62;Mkt&Fin;5681;Placed;02/03/2019
+207;M;4100;4200;Science;6000;Comm&Mgmt;No;97;Mkt&Fin;5339;Not Placed;01/11/2018
+208;M;8333;7800;Commerce;6100;Comm&Mgmt;Yes;8856;Mkt&Fin;7155;Placed;22/04/2011
+209;F;4300;6000;Science;6500;Comm&Mgmt;No;9266;Mkt&HR;6292;Not Placed;09/05/2010
+210;M;6200;7200;Commerce;6500;Comm&Mgmt;No;67;Mkt&Fin;5649;Placed;01/04/2012
+211;M;8060;8200;Commerce;7760;Comm&Mgmt;No;91;Mkt&Fin;7449;Placed;15/08/2014
+212;M;5800;6000;Science;7200;Sci&Tech;No;74;Mkt&Fin;5362;Placed;30/06/2012
+213;M;6700;6700;Commerce;7300;Comm&Mgmt;Yes;59;Mkt&Fin;6972;Placed;22/07/2019
+214;F;7400;6600;Commerce;5800;Comm&Mgmt;No;70;Mkt&HR;6023;Placed;04/05/2011
+215;M;6200;5800;Science;5300;Comm&Mgmt;No;89;Mkt&HR;6022;Not Placed;11/11/2014
