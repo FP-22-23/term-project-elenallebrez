@@ -38,5 +38,8 @@ To work with the data from the dataset, I have created a named tuple:
 `maintuple=namedtuple("Student_number", "sl_no,gender,ssc_p,hsc_p,hsc_s,degree_p,degree_t,workex,etest_p,specialisation,mba_p,status,finish_date")`
 
 ### Implemented functions
+## First delivery
 The first function implemented is:
 - read_dataset(file): it reads the csv file and returns a list of tuples.
+
+## Second delivery
