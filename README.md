@@ -43,3 +43,8 @@ The first function implemented is:
 - read_dataset(file): it reads the csv file and returns a list of tuples.
 
 ## Second delivery
+In this delivery I have implemented the following functions:
+- hsc_p_filter(list, p=7500.0)
+- average_degree_percentage(list)
+- order_mba_p_man(list, p=7500, m ="M")
+- order_mba_p_woman(list, p=7500.0, f ="F")
