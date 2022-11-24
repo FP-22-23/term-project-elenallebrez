@@ -39,12 +39,18 @@ To work with the data from the dataset, I have created a named tuple:
 
 ### Implemented functions
 ## First delivery
+# Block 1
 The first function implemented is:
 - read_dataset(file): it reads the csv file and returns a list of tuples.
 
 ## Second delivery
 In this delivery I have implemented the following functions:
-- hsc_p_filter(list, p=7500.0)
-- average_degree_percentage(list)
-- order_mba_p_man(list, p=7500, m ="M")
-- order_mba_p_woman(list, p=7500.0, f ="F")
+# Block 2
+- hsc_p_filter(list, p=7500.0):Given a list of tuples and a value for the percentage, this function filter the percentage of the higher secondary education. It shows the people who reach and pass the 75%.
+- average_degree_percentage(list): Given a list of tuples, this function returns the value of the average of the total degree percentage.
+- order_mba_p_man(list, p=7500, m ="M"): Given a list of tuples and a determined gender, this function order a list where it appears the men that reached de 75% of the degree
+- order_mba_p_woman(list, p=7500.0, f ="F"): Given a list of tuples and a determined gender, this function order a list where it appears the women that reached de 75% of the degree.
+# Block 3
+
+
+### Test module
