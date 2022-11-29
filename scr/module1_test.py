@@ -6,7 +6,17 @@ if __name__ == "__main__":
     print(students[0:3])
     print(students[-3:])
 
-    
-print(hsc_p_filter(students))
+def test_hsc_p_filter():
+    print(hsc_p_filter(students[:20]))
 
-print(average_degree_percentage(students))
+def test_average_degree_percentage():
+    print(average_degree_percentage(students))
+
+def test_order_mba_p_man():
+    print(order_mba_p_man(students))
+
+def test_order_mba_p_woman():
+    print(order_mba_p_woman(students))
+
+def test_max_degree_p():
+    print(max_degree_p(students))
