@@ -15,8 +15,11 @@ def read_dataset(file):
     
     return students
 
-#BLOQUE 1
-#Function that filters and/or selects a series of rows and/or columns of the dataset
+#Second delivery
+
+#First Block
+
+#Function that filters and/or selects a series of rows and/or columns from the dataset
 def hsc_p_filter(list, p=7500.0):
     filter=[]
     for e in list:
@@ -24,6 +27,7 @@ def hsc_p_filter(list, p=7500.0):
             filter.append(e)
     
     return filter
+
 
 #Function that calculates the sum, total or average of a numerical property
 
@@ -34,6 +38,38 @@ def average_degree_percentage(list):
         sum=sum + e.degree_p
         i=i+1
     
-    average= (sum/i)
+    average= float(sum/i)
 
-    return average
+    return average, sum
+    
+
+#Second block
+
+#A function that gets a tuple (or part of it) with the maximum or minimum value of a property from among tuples that meet a condition. 
+def max_degree_p(list, year=2010):
+    maximun=[]
+    for e in list:
+        if e.finish_date.year == year:
+            maximun.append(e)
+    
+    max_tuple= max(maximun, key=lambda tup:tup[5])
+
+    return max_tuple 
+
+
+#Function that gets a list of n tuples ordered from major to minor (or minor to major) by a given property from among those that meet a condition
+def order_mba_p_man(list, p=7500, m ="M"):
+    filter=[]
+    for e in list:
+        if e.mba_p >= p and e.gender == m:
+            filter.append(e)
+    
+    return sorted(filter)
+
+def order_mba_p_woman(list, p=7500.0, f ="F"):
+    filter=[]
+    for e in list:
+        if e.mba_p >= p and e.gender == f:
+            filter.append(e)
+    
+    return sorted(filter)
