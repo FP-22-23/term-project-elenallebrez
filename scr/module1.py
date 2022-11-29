@@ -73,3 +73,11 @@ def order_mba_p_woman(list, p=7500.0, f ="F"):
             filter.append(e)
     
     return sorted(filter)
+
+#Function that returns a dictionary that allows grouping by a property, in which values are a list or set with tuples that have the same value as that property.
+def group_ssc_p(list, specialization = None):
+    res=defaultdict(list)
+    for e in list:
+        if specialization is None or e.specialization ==specialization:
+            res[e.ssc_p].append(e)
+    return dict(sorted(res.items(), key = lambda s:s[0]))
