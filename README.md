@@ -57,6 +57,8 @@ In this delivery I have implemented the following functions:
 
 - def max_degree_p(list, year=2010):Given a list of tuples and a determined year, this function returns the maximun degree percentage of the determined year, in this case 2010.
 
+- def group_ssc_p(list): Given a list of tuples, this function converts it into a dictionary that group the people by their secondary specialization in secondary school.
+
 ### Test module
 The following test functions have been defined in the test module, each of which is used to test the function with the same name. 
 - def test_hsc_p_filter()
