@@ -75,9 +75,20 @@ def order_mba_p_woman(list, p=7500.0, f ="F"):
     return sorted(filter)
 
 #Function that returns a dictionary that allows grouping by a property, in which values are a list or set with tuples that have the same value as that property.
-def group_ssc_p(list, specialization = None):
-    res=defaultdict(list)
+def number_specialization(list):
+    specialization=[]
     for e in list:
-        if specialization is None or e.specialization ==specialization:
-            res[e.ssc_p].append(e)
-    return dict(sorted(res.items(), key = lambda s:s[0]))
+        specialization.append(e.hsc_s)
+    
+    return (Counter(specialization)) 
+
+#Third Block
+#Function that returns a maximum or minimum from a dictionary that corresponds to each key the sum of the values of a property of the tuples containing that key
+def max_number_specialization(list):
+    specialization=[]
+    for e in list:
+        specialization.append(e.hsc_s)
+    
+    number=Counter(specialization)
+
+    return ("The specialization that more students chose is", max(number))
