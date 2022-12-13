@@ -85,10 +85,25 @@ def number_specialization(list):
 #Third Block
 #Function that returns a maximum or minimum from a dictionary that corresponds to each key the sum of the values of a property of the tuples containing that key
 def max_number_specialization(list):
-    specialization=[]
-    for e in list:
-        specialization.append(e.hsc_s)
+    number = number_specialization(list)
+    spec=max(number, key=number.get)
     
-    number=Counter(specialization)
-
     return ("The specialization that more students chose is", max(number))
+
+#Function that returns a dictionary that matches each key with the maximum or minimum of some property of the tuples containing that key.
+def max_percentage(list):
+    types=["ssc_p", "hsc_p", "degree_p", "etest_p", "mba_p"]
+    
+    percentage_ssc_p=max([e.ssc_p for e in list])
+    percentage_hsc_p=max([e.hsc_p for e in list])
+    percentage_degree_p=max([e.degree_p for e in list])
+    percentage_etest_p=max([e.etest_p for e in list])
+    percentage_mba_p=max([e.mba_p for e in list])
+    percentage=[percentage_ssc_p, percentage_hsc_p, percentage_degree_p, percentage_etest_p, percentage_mba_p]
+
+    total=dict(zip(types, percentage))
+
+
+    return total
+
+
