@@ -95,7 +95,7 @@ def average_degree_percentage(mylist):
 
 # Block 2
 
-def max_degree_p_2010(mylist, year = 2010):
+def max_degree_p_by_year(mylist, year = 2010):
     '''
     Returns a tuple with the maximum percentage obtained by a student in the degree during the year 2010. This tuple contains the student's serial number and the percentage obtained.
     @param mylist: list of tuples with students' data
@@ -105,23 +105,9 @@ def max_degree_p_2010(mylist, year = 2010):
     @return: tuple with the serial number of the student and the degree percentage
     @rtype: tuple()
     '''
-    year_2010 = max((e.sl_no, e.degree_p) for e in mylist if e.finish_date.year == year)
+    max_degree_year = max((e.sl_no, e.degree_p) for e in mylist if e.finish_date.year == year)
     
-    return  year_2010
-
-def max_degree_p_2019(mylist, year = 2019):
-    '''
-    Returns a tuple with the maximum percentage obtained by a student in the degree during the year 2019. This tuple contains the student's serial number and the percentage obtained.
-    @param mylist: list of tuples with students' data
-    @type mylist:  [Student_number(int, str, float, float, str, float, str, float, str, boolean, float, str, float, float, str, datetime. date)]]
-    @param year: This number is the year I have chosen to see what was the best grade that year. It can be changed, but the default value is 2019.
-    @type year: int
-    @return: tuple with the serial number of the student and the degree percentage
-    @rtype: tuple()
-    '''
-    year_2019 = max((e.sl_no, e.degree_p) for e in mylist if e.finish_date.year == year)
-    
-    return  year_2019
+    return  max_degree_year
 
 def max_min_degree_p(mylist):
     '''
@@ -139,14 +125,14 @@ def max_min_degree_p(mylist):
 
     return  student_higher, student_lower
 
-def order_mba_p_man(mylist, p=65.0, m ="M", n = 3):
+def order_mba_p_by_gender(mylist, p=65.0, m ="M", n = 3):
     '''
     Returns a list with 3 tuples of type Student_number that represent the top 3 male students with a master percentage higher than 65.0
     @param mylist: list of tuples with students' data
     @type mylist:  [Student_number(int, str, float, float, str, float, str, float, str, boolean, float, str, float, float, str, datetime. date)]]
     @param n: number by which the male students will be filtered. It can take any value you want. If n is not specified, it will take 65.00 as default value
     @type n: int
-    @param m: character string which represents the gender, it can be "M" or "F". If m is not specified, it will take "M" as default value
+    @param m: character string which represents the gender, it can be "M", male, or "F", female. If m is not specified, it will take "M" as default value
     @type m: str
     @return: List of tuples of type Student_number with the students that meet the conditions.
     @rtype: [Student_number(int, str, float, float, str, float, str, float, str, boolean, float, str, float, float, str, datetime. date)]]
@@ -154,22 +140,6 @@ def order_mba_p_man(mylist, p=65.0, m ="M", n = 3):
     filter=[e for e in mylist if e.mba_p >= p and e.gender == m][:n]
     order= sorted(filter, key = lambda x:x[-3], reverse= True)
     
-    return order
-
-def order_mba_p_woman(mylist, p=65.0, f ="F", n=3):
-    '''
-    It returns a list with 3 tuples of type Student_number that represent the top 3 female students with a master percentage higher than 65.0
-    @param mylist: list of tuples with students' data
-    @type mylist:  [Student_number(int, str, float, float, str, float, str, float, str, boolean, float, str, float, float, str, datetime. date)]]
-    @param n: number by which the female students will be filtered. It can take any value you want. If n is not specified, it will take 65.00 as default value
-    @type n: int
-    @param f: character string which represents the gender, it can be "M" or "F". If m is not specified, it will take "F" as default value
-    @type f: str
-    @return: List of tuples of type Student_number with the students that meet the conditions.
-    @rtype: [Student_number(int, str, float, float, str, float, str, float, str, boolean, float, str, float, float, str, datetime. date)]]
-    '''
-    filter=[e for e in mylist if e.mba_p >= p and e.gender == f][:n]
-    order= sorted(filter, key = lambda x:x[-3] ,reverse= True)
     return order
 
 def group_hsc_s(mylist):
@@ -287,7 +257,7 @@ def max_percentage(mylist):
 
     return  total
 
-def top5_percentage_working(mylist, n = 5):
+def topn_percentage_working(mylist, n = 5):
     '''
     Given a list of tuples of type Student_number and a parameter, this function returns a dictionary whose keys are the types tests and the value of each key is a list with the five highest percentage
     @param mylist: list of tuples with students' data
