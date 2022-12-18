@@ -99,4 +99,7 @@ This module contains the following functions for drawing graphs:
 
 ## Block 4
 - **show_degree_p(mylist)**: This function returns a bar graph, where the x-axis is the years and the y-axis is the average of the grades of the degree of each year.
+![Figure_2](https://user-images.githubusercontent.com/116157269/208323678-675f491d-0573-4625-9242-683a432508d5.png)
+
 - **def show_working(mylist)**: this function returns a pie chart where you can see which people are working now and which are not. You can see that it corresponds to the function porcentage_working
+![Figure_1](https://user-images.githubusercontent.com/116157269/208323689-1defc82a-aff8-4d04-8d09-d45250aa2fae.png)
