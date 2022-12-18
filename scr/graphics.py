@@ -1,7 +1,6 @@
 from matplotlib import pyplot as plt
 
-#Bloque IV: Implementar, documentar y probar UNA función que trabaje sobre el dataset y genere una 
-#gráfica interesante, haciendo uso de la biblioteca matplotlib.
+#Block 4
 
 def show_degree_p(mylist):
     year_2010 = [e.degree_p for e in mylist if e.finish_date.year == 2010]
