@@ -23,9 +23,9 @@ def read_dataset(file):
     
     return students
 
-### SECOND DELIVERY
+# SECOND DELIVERY
 
-#### Block 1
+# Block 1
 
 def preuniversity_p_filter(mylist, p=75.00):
     '''
@@ -93,7 +93,7 @@ def average_degree_percentage(mylist):
 
     return  sum, i, average
 
-## Block 2
+# Block 2
 
 def max_degree_p_2010(mylist, year = 2010):
     '''
@@ -190,9 +190,9 @@ def group_hsc_s(mylist):
     
     return d
 
-#THIRD DELIVERY
+# THIRD DELIVERY
 
-#Block 3
+# Block 3
 
 def number_hsc_s(mylist):
     '''
