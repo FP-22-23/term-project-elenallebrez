@@ -293,6 +293,7 @@ def porcentage_working(mylist):
     return percentage
 
 def percentage_A(mylist, n = 75.00):
+    '''
     Given a list of tuples of type Student_number and a parameter, this function returns the percentage of people that pass all the tests with more than 75
     @param mylist: list of tuples with students' data
     @type mylist:  [Student_number(int, str, float, float, str, float, str, float, str, boolean, float, str, float, float, str, datetime. date)]]
@@ -300,6 +301,7 @@ def percentage_A(mylist, n = 75.00):
     @type n: float
     @return: number of percentage
     @rtype: float
+    '''
     A = [e for e in mylist if e.ssc_p >= 75 and e.hsc_p >= n and e.degree_p >= n and e.etest_p >= n and e.mba_p >= n]
     percentage = (len(A)*100)/len(mylist)
 
